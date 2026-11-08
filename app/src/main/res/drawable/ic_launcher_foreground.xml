@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The app's signature: a sun rising over the horizon, its light mirrored below -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M36,61 A18,18 0 0 1 72,61 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="54" android:startY="43" android:endX="54" android:endY="61">
+                <item android:offset="0" android:color="#FFFBE8B8" />
+                <item android:offset="0.55" android:color="#FFF2B04A" />
+                <item android:offset="1" android:color="#FFD0612B" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FFEDEDED" android:pathData="M30.25,60.25h47.5a1.25,1.25 0 0 1 0,2.5h-47.5a1.25,1.25 0 0 1 0,-2.5z" />
+    <path android:fillColor="#8CF2B04A" android:pathData="M40,67h28a1,1 0 0 1 0,2h-28a1,1 0 0 1 0,-2z" />
+    <path android:fillColor="#4DF2B04A" android:pathData="M47,72.5h14a1,1 0 0 1 0,2h-14a1,1 0 0 1 0,-2z" />
+</vector>

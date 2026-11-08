@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed icon (Android 13+): same shapes in one color, tinted by the system -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF000000" android:pathData="M36,61 A18,18 0 0 1 72,61 Z" />
+    <path android:fillColor="#FF000000" android:pathData="M30.25,60.25h47.5a1.25,1.25 0 0 1 0,2.5h-47.5a1.25,1.25 0 0 1 0,-2.5z" />
+    <path android:fillColor="#99000000" android:pathData="M40,67h28a1,1 0 0 1 0,2h-28a1,1 0 0 1 0,-2z" />
+    <path android:fillColor="#59000000" android:pathData="M47,72.5h14a1,1 0 0 1 0,2h-14a1,1 0 0 1 0,-2z" />
+</vector>

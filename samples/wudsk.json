@@ -1,0 +1,11 @@
+{
+  "durat": 20,
+  "onoff": false,
+  "curve": 20,
+  "ctype": 0,
+  "sndtp": 1,
+  "snddv": "off",
+  "sndch": "",
+  "sndlv": 12,
+  "sndss": 200
+}

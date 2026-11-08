@@ -1,0 +1,22 @@
+{
+  "prfnr": 1,
+  "prfen": false,
+  "prfvs": true,
+  "pname": "Alarm",
+  "ayear": 0,
+  "amnth": 0,
+  "alday": 0,
+  "daynm": 254,
+  "almhr": 14,
+  "almmn": 25,
+  "curve": 25,
+  "durat": 10,
+  "ctype": 3,
+  "snddv": "wus",
+  "sndch": "1",
+  "sndlv": 5,
+  "sndss": 0,
+  "pwrsz": 0,
+  "pszhr": 0,
+  "pszmn": 0
+}
